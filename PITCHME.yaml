@@ -1,0 +1,8 @@
+published : true
+charts : true
+mathjax : TeX-MML-AM_HTMLorMML-full
+theme : white
+logo : assets/logo.png
+vertical-center : true
+slide-number : true
+footnote : "Awesome."
