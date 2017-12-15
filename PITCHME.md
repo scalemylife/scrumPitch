@@ -27,7 +27,6 @@
 ---
 
 ### Meaning of the Core Values
-<br>
 * While there is value in the items on the right, we value the items on the left more...*
 
 ---
@@ -38,4 +37,3 @@
 ---
 
 ## Thank you!
-
