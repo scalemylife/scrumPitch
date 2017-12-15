@@ -1,13 +1,12 @@
 # scrumPitch
 
-+++
+---
 
 ## Agenda
 
 ---
 
 ## **History**
-<br>
 * 2001 there was a meeting
 * 
 
@@ -19,23 +18,21 @@
 
 ---
 
-### Core Value
- <br>>
+### Core Values
 * Individuals + Interactions > Processes + Tools
 * Working Software > Comprehensive Documentation
 * Customer Collaboration > Contract Negotiation
 * Responding to Change > Following a Plan
 
-+++
+---
 
 ### Meaning of the Core Values
 <br>
 * While there is value in the items on the right, we value the items on the left more...*
 
-+++
+---
 
 ### More Values
-<br>
 * Wisdom + Common Sense > Knowledge + Expertise
 	
 ---
